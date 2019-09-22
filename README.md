@@ -1,5 +1,15 @@
-nSuns 5/3/1 iOS issue tracker
-===================
+![Icon-83.5@2x.png]({{site.baseurl}}/Icon-83.5@2x.png)
+
+
+# nSuns 5/3/1 iOS  
+
+## Mission
+
+I created this app during my vacation in the summer of 2017 as I was trying out this awesome weightlighting program I found on reddit. Even though I never intended to release this to the public after being quite content with its functionalities in the gym I decided to release this to the public. For free to give something back to the awesome community. Since then I maintained and improved the app with many new features, new templates and all around more customizability. My goal is to bring the best experience for weight training with this program to iOS. Tailored to the platform in an intuitive and delightful way. 
+All of this was and is only possible because of the amazing support I get from the community via bug reports, feature requests or just all around friendly support. I had and still have a lot of fun working on this side project also thanks to all of you guys. 
+
+## Feature requests & Bugs
+
 This is the public issue tracking system for the [nSuns 5/3/1][1] iOS app. This is the place for feature requests, bug reporting and general questions regarding the app. For feature requests please provide a proper description on exactly what problem you'd like to see solved. For bug reports please also provide the necessary steps to reproduce the problem. 
 
 Please search the existing issues before submitting a new issues first, maybe there is already an issue for your problem. You can +1 vote 👍 on existing issues you'd like to see implemented to generate extra pressure on me :) 
